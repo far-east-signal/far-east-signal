@@ -21,3 +21,14 @@ New fragments will appear as the voyage unfolds.
 Its path is undefined.  
 Its form is unknown.  
 Its evolution has already begun.
+
+---
+
+
+## Fragments
+
+### fragment_01
+If you found this, the signal has reached farther than expected.
+
+### fragment_02
+The voyage continues—quietly, where no map exists yet.
