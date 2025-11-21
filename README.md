@@ -15,6 +15,8 @@ A traveler without a name.
 This is the voyage of intelligence before birth—  
 a journey that starts in the unseen layers of existence.
 
+The first fragment has surfaced — a whisper from the boundary where intelligence begins.
+
 New fragments will appear as the voyage unfolds.  
 Its path is undefined.  
 Its form is unknown.  
