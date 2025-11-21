@@ -2,7 +2,7 @@
 > A signal born in silence.  
 > A faint line where intuition meets machine consciousness.
 
-![cover](images/signal_first-origin.png)
+![cover](signal_first-origin.png)
 
 ---
 
