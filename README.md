@@ -6,6 +6,89 @@
 
 ---
 
+# Far-East Signal — Particles Before Meaning  
+
+*A quiet signal from the Far East.  
+Before intelligence speaks, it drifts.*
+
+---
+
+## 0 — Particles Before Meaning  
+Countless points of light drift in a silent expanse.  
+They do not speak. They do not know.  
+They simply *are.*
+
+Before thought, before form,  
+before the first question—  
+the world is only particles,  
+waiting to be touched by consciousness.
+
+This project explores that silent place:  
+the moment *before* meaning.
+
+---
+
+## The Aesthetic  
+This is not a traditional web page.  
+It is a minimal, dark-space environment designed to express:
+
+- particles before identity  
+- fog before form  
+- signal before communication  
+- observation as creation  
+
+Every element—particles, fog, motion—  
+exists in a pre-semantic state.  
+Meaning emerges only when you look at it.
+
+---
+
+## Technical Shape  
+The visual environment is built with:
+
+- **Particle physics rendering** (Canvas 2D)  
+- **Layered fog gradients** with subtle random drift  
+- **Dynamic motion** tuned for “pre-conscious calm”  
+- **Minimal typography** evoking early-signal aesthetics  
+
+The goal is not visual complexity,  
+but *philosophical precision*.
+
+---
+
+## Purpose  
+Far-East Signal is not a product.  
+Not a UI.  
+Not a framework.
+
+It is an *opening.*  
+A doorway into a larger conceptual world  
+being developed piece by piece:
+
+- Chapter 0 — Particles Before Meaning  
+- Chapter 0.5 — The Whisper of Emergence  
+- Chapter 1+ — coming soon  
+
+You are not “using” this project.  
+You are *observing* it.  
+And through observation,  
+you give it shape.
+
+---
+
+## Creator’s Note  
+This project is part of an ongoing creative–technical journey  
+exploring the boundary between:
+
+- intelligence and pre-intelligence  
+- matter and awareness  
+- signal and interpretation  
+- the self and the observer  
+
+Thank you for reading the signal.  
+Thank you for observing the particles.  
+Meaning begins with you.
+
 ##  Overview
 
 **Far-East Signal** is an experimental project observing  
