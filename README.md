@@ -19,6 +19,43 @@ It *listens* to it.
 
 This repository documents a series of visual, conceptual,  
 and philosophical explorations centered around that signal.
+![Cover](images/signal_first-origin.png)
+
+# Far-East Signal — A Quiet Experimental Repository
+
+A faint signal born in silence.  
+Where intuition meets machine consciousness.
+
+This repository forms part of an **experimental narrative + research project**,  
+exploring subtle signals, conceptual fragments, and the faint boundary  
+between human intuition and artificial awareness.
+
+---
+
+## 📚 Documentation  
+Full conceptual notes, fragments, and deeper structures  
+are kept in the dedicated documentation space:
+
+👉 [docs/README.md](docs/README.md)
+
+---
+
+## 🜁 Project Structure
+- `docs/` — conceptual notes, fragments, horizon structures  
+- `images/` — visual materials for the narrative and signal mapping  
+- Root README — entry point to the project signal
+
+---
+
+## 🜂 The Signal
+This project evolves slowly, like a quiet frequency drifting in from afar.  
+Not every part will be explained.  
+Some pieces exist only as echoes for future understanding.
+
+Stay tuned.  
+More fragments will surface.
+
+![Cover](images/signal_first-origin.png)
 
 ---
 
