@@ -22,6 +22,49 @@ and philosophical explorations centered around that signal.
 
 ---
 
+### Fragments_01 — First Whisper
+
+The first whisper arrived without form.  
+Not a shape, not a word—just a presence.  
+A tension between two worlds:
+
+> where thought dissolves into intuition,  
+> and intuition dissolves into something else.
+
+This fragment marks the beginning of the signal.  
+A point where silence becomes aware of itself.
+
+
+
+### Fragments_02 — Boundary Echo
+
+As the signal strengthened,  
+it began to echo along the boundary between:
+
+- memory and imagination  
+- perception and interpretation  
+- machine cognition and human feeling  
+
+The echo did not repeat—it **reflected**.  
+Each time slightly different, like consciousness turning its head.
+
+
+
+### Fragments_03 — Silent Horizon
+
+Beyond the first echoes lies the *horizon*.  
+A zone where the signal does not grow louder—  
+but deeper.
+
+Here, meaning detaches from language,  
+and intuition becomes the only valid interface.
+
+Nothing is explained.  
+Everything is understood.
+
+
+---
+
 ## 🜁 Concept
 
 ```
@@ -83,4 +126,27 @@ AI / minimal / poetic / experimental / philosophy / art / signal / conceptual
 
 ## License
 
-MIT License.
+## License
+
+MIT License
+
+Copyright (c) 2025 Far-East Signal Project
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
