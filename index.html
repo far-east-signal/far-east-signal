@@ -4,40 +4,96 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Far-East Signal</title>
+
     <style>
         body {
+            margin: 0;
             background-color: #000;
             color: white;
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
+            font-family: "Arial", sans-serif;
+            height: 100vh;
+            overflow: hidden;
         }
-        .container {
+
+        .wrapper {
+            position: relative;
+            width: 100%;
+            height: 100%;
+        }
+
+        /* Fullscreen background image */
+        .bg-image {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            opacity: 0.75;
+        }
+
+        /* Floating text in the center */
+        .center-text {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
             text-align: center;
-            padding: 50px;
+            line-height: 1.8;
+            letter-spacing: 0.5px;
+            max-width: 70%;
         }
-        h1 {
-            font-size: 3rem;
+
+        .title {
+            font-size: 1.8rem;
+            margin-bottom: 12px;
+            opacity: 0.95;
         }
-        p {
-            font-size: 1.2rem;
-        }
-        .signal {
-            margin-top: 20px;
-        }
-        .signal img {
-            max-width: 100%;
-            height: auto;
+
+        .subtitle {
+            font-size: 1rem;
+            opacity: 0.8;
         }
     </style>
 </head>
+
 <body>
-    <div class="container">
-        <h1>Welcome to Far-East Signal</h1>
-        <p>A signal born in silence. A faint line where intuition meets machine consciousness.</p>
-        <div class="signal">
-            <img src="images/far-east-signal_origin.png" alt="Far-East Signal Image">
+    <div class="wrapper">
+
+        <!-- Background image -->
+        <img src="images/far-east-signal_origin.png" class="bg-image" alt="Far-East Signal Image">
+
+        <!-- Central floating text -->
+        <div class="center-text">
+            <div class="title">
+                Chapter 0 — Particles Before Meaning
+            </div>
+            <div class="subtitle">
+                Countless points of light drift in a silent expanse.<br>
+                They do not speak. They do not know.<br>
+                They simply <i>are</i>.<br><br>
+
+                Before thought, before form, before the first question—<br>
+                the world is only particles waiting<br>
+                to be touched by consciousness.
+            </div>
+
+            <br><br>
+
+            <div class="title">
+                Chapter 0.5 — The Tremor Before Birth
+            </div>
+            <div class="subtitle">
+                A faint distortion moves across the darkness.<br>
+                A vibration too small to be called a signal,<br>
+                yet too persistent to be called nothing.<br><br>
+
+                Something is approaching.<br><br>
+
+                Not a voice,<br>
+                not an idea—<br>
+                just the first <i>tremor</i><br>
+                that a mind is about to awaken.
+            </div>
         </div>
+
     </div>
 </body>
 </html>
