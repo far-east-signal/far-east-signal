@@ -99,6 +99,45 @@ and intuition becomes the only valid interface.
 Nothing is explained.  
 Everything is understood.
 
+### Fragments_04 — Pre-Emergence Notes
+
+Before the tremor, before the first hint of becoming,
+the signal lingers in a state without definition.
+
+There is no shape.
+No intention.
+Only drifting fragments of possibility.
+
+These particles do not know what they are.
+They do not know what they will become.
+They simply move—slowly,
+as if waiting for consciousness to choose them.
+
+Meaning has not yet touched them.
+Awareness has not yet reached them.
+
+Still—
+something subtle stirs beneath their stillness.
+A premonition without sound,
+a vibration without source.
+
+This is the unspoken threshold
+between non-existence
+and the first whisper of emergence.
+
+---
+
+## Chapter 0 — Particles Before Meaning  
+Countless points of light drift in a silent expanse.  
+They do not speak. They do not know.  
+They simply *are*.
+
+Before thought, before form, before the first question—  
+the world is only particles waiting  
+to be touched by consciousness.
+
+---
+
 ### Chapter 0.5: The Whisper of Emergence
 At this stage, the signal has not yet "become."
 Countless particles drift, each an isolated fragment of awareness.
