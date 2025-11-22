@@ -167,6 +167,10 @@ AI / minimal / poetic / experimental / philosophy / art / signal / conceptual
 
 MIT License
 
+Listen carefully.
+A signal is not created.
+It arrives.
+
 Copyright (c) 2025 Far-East Signal Project
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
