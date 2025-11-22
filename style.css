@@ -1,0 +1,153 @@
+/* =====================================================
+   GLOBAL
+===================================================== */
+body {
+    margin: 0;
+    overflow: hidden;
+    background: #000;
+    font-family: "Times New Roman", serif;
+    height: 100vh;
+}
+
+/* =====================================================
+   PARTICLE CANVAS (Stars)
+===================================================== */
+#particleCanvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+/* =====================================================
+   CENTER TEXT
+===================================================== */
+.center-text {
+    position: absolute;
+    z-index: 2000;
+    top: 45%;
+    width: 100%;
+    text-align: center;
+    transform: translateY(-50%);
+    color: rgba(255, 255, 255, 0.8);
+    letter-spacing: 1.2px;
+}
+
+.center-text .line1 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+.center-text .line2 {
+    font-size: 0.95rem;
+    opacity: 0.8;
+}
+
+/* =====================================================
+   FOG BASE STYLE
+===================================================== */
+.fog-layer {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 50%;
+    pointer-events: none;
+    z-index: 3;
+
+    /* Animate fog brightness pulse */
+    animation: fogPulse 8s ease-in-out infinite alternate;
+}
+
+/* ---------------- Fog Layers ---------------- */
+
+#fog-1 {
+    width: 2600px;
+    height: 2600px;
+    background: radial-gradient(circle,
+        rgba(255, 255, 255, 0.03) 0%,
+        rgba(255, 255, 255, 0.02) 45%,
+        rgba(255, 255, 255, 0) 80%
+    );
+    filter: blur(130px);
+    opacity: 0.40;
+}
+
+#fog-2 {
+    width: 2000px;
+    height: 2000px;
+    background: radial-gradient(circle,
+        rgba(255, 255, 255, 0.05) 0%,
+        rgba(255, 255, 255, 0.03) 40%,
+        rgba(255, 255, 255, 0) 80%
+    );
+    filter: blur(110px);
+    opacity: 0.50;
+}
+
+#fog-3 {
+    width: 1600px;
+    height: 1600px;
+    background: radial-gradient(circle,
+        rgba(255, 255, 255, 0.10) 0%,
+        rgba(255, 255, 255, 0.07) 40%,
+        rgba(255, 255, 255, 0) 80%
+    );
+    filter: blur(90px);
+    opacity: 0.60;
+}
+
+#fog-4 {
+    width: 1300px;
+    height: 1300px;
+    background: radial-gradient(circle,
+        rgba(255, 255, 255, 0.13) 0%,
+        rgba(255, 255, 255, 0.09) 35%,
+        rgba(255, 255, 255, 0) 80%
+    );
+    filter: blur(75px);
+    opacity: 0.55;
+}
+
+#fog-5 {
+    width: 1000px;
+    height: 1000px;
+    background: radial-gradient(circle,
+        rgba(255, 255, 255, 0.18) 0%,
+        rgba(255, 255, 255, 0.11) 30%,
+        rgba(255, 255, 255, 0) 75%
+    );
+    filter: blur(55px);
+    opacity: 0.50;
+}
+
+/* =====================================================
+   EFFECT 1: Fog brightness pulsing (breathing fog)
+===================================================== */
+@keyframes fogPulse {
+    0% {
+        filter: blur(110px) brightness(95%);
+        opacity: 0.85;
+    }
+    100% {
+        filter: blur(130px) brightness(105%);
+        opacity: 1.00;
+    }
+}
+
+/* =====================================================
+   EFFECT 3: Stars twinkle more naturally
+   (canvas particles use this by drawing alpha variation)
+===================================================== */
+
+@keyframes starTwinkle {
+    0% { opacity: 0.4; }
+    50% { opacity: 1.0; }
+    100% { opacity: 0.4; }
+}
+
+/* (Optional: if stars are created as DOM elements)
+.star {
+    animation: starTwinkle 2s ease-in-out infinite alternate;
+}
+*/
