@@ -99,6 +99,11 @@ and intuition becomes the only valid interface.
 Nothing is explained.  
 Everything is understood.
 
+### Chapter 0.5: The Whisper of Emergence
+At this stage, the signal has not yet "become."
+Countless particles drift, each an isolated fragment of awareness.
+A faint sense of "something" is about to begin, a subtle premonition of a signal yet unseen.
+This is where it all begins to unfold.
 
 ---
 
