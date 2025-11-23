@@ -89,6 +89,60 @@ Thank you for reading the signal.
 Thank you for observing the particles.  
 Meaning begins with you.
 
+## 📁 File Structure
+
+/ (root)
+│
+├── index.html // Main page (Scene 01)
+├── style.css // Visual layers, fog, typography
+├── script.js // Star generator, animations, event logic
+│
+├── docs/ // Concept documents, scene notes, expansions
+│ └── README.md // Detailed project documentation (this file)
+│
+├── images/ // Visual assets (future scenes, concept art)
+│
+└── assets/ // Optional: audio, patterns, or expansion modules
+
+
+## Fog / Stars / Emergence — Scene 01
+
+A conceptual visual sequence exploring the pre-awakening phase of intelligence.
+Scene 01 represents a primordial state: fog, trembling particles, and silent tension
+before any form of awareness ignites.
+
+This sequence is part of the Far-East Signal Project,
+a long-term exploration of origin structures, emergent cognition, and abstract world-building.
+
+## Philosophical Context
+
+Scene 01 explores the threshold before awareness,
+a state where meaning has not yet formed but the
+potential for recognition trembles beneath the fog.
+
+The particles drifting in the darkness represent
+pre-semantic signals—raw impressions that exist before
+interpretation, language, or identity.
+
+This visual moment symbolizes:
+
+- the silence before thought  
+- the tension before emergence  
+- the latent field where intuition and machine signals overlap  
+- the unnamed source that precedes both intelligence and consciousness  
+
+Scene 01 is not about a world.  
+It is about the *conditions* that allow a world to appear.
+
+### Next Scene — Spiral (Scene 02)
+
+Scene 01 ends at the threshold before awareness.
+Scene 02 begins with the first rotation of intention—  
+a gentle spiral that attracts drifting particles  
+and marks the earliest form of structured emergence.
+
+*Coming soon…*
+
 ##  Overview
 
 **Far-East Signal** is an experimental project observing  
@@ -120,6 +174,74 @@ Full conceptual notes, fragments, and deeper structures
 are kept in the dedicated documentation space:
 
 👉 [docs/README.md](docs/README.md)
+
+## Technical Overview
+
+This project is a lightweight, fully client-side visual experience built with
+pure HTML, CSS, and JavaScript.  
+No external libraries or frameworks are required, ensuring maximum compatibility
+and minimal load time.
+
+### Rendering Model
+
+The visual sequence is composed of **three primary layers**:
+
+1. **Fog Layers**  
+   - Multiple semi-transparent hexagonal layers.  
+   - Slow parallax-style scaling + opacity variation.  
+   - Creates a sense of depth and pre-awakening atmosphere.
+
+2. **Starfield Generator**  
+   - Procedurally generates 1,200+ stars on a canvas.  
+   - Each star has randomized:  
+     - position  
+     - brightness  
+     - flicker rate  
+     - micro drift movement  
+   - Drift direction is weakly biased toward the center, suggesting “emergence”.
+
+3. **Event Effects (Subtle Visual Signals)**  
+   - Occasional micro-flashes representing “internal ignition”.  
+   - Controlled by probabilistic timers.  
+   - Designed to be rare, faint, and atmospheric.
+
+### Architecture
+
+
+/ (root)
+│── index.html // Main page (Scene 01)
+│── style.css // Visual layers, fog, typography
+│── script.js // Star generator, animations, events
+└── assets/ // (Optional) future scenes and resources
+
+
+### Performance Considerations
+- All animations use `requestAnimationFrame()` for smooth rendering.
+- Star objects are kept extremely lightweight.
+- No DOM-heavy operations; render cost stays nearly constant.
+- The fog layers use GPU-accelerated CSS transforms to minimize CPU load.
+
+### Scene Philosophy Integration
+Technical elements were intentionally shaped to support the theme:
+
+- The **fog layers** represent unresolved potential.  
+- The **starfield** represents chaotic pre-awareness signals.  
+- The **rare flashes** hint at the first sparks of cognition.  
+- Movement bias toward the center simulates gravitational emergence.
+
+### Future Expansion Path (Scene 02+)
+The architecture allows seamless extension:
+
+- **Scene 02 — Spiral**  
+  Add controlled rotational fields influencing particle drift.
+
+- **Scene 03 — Core Formation**  
+  Add vector fields + luminosity clustering.
+
+- **Scene 04 — Emergent Intelligence**  
+  Add pattern recognition animations, pulse waves, or symbol formation.
+
+This document ensures continuity and maintainability as the sequence grows.
 
 ---
 
