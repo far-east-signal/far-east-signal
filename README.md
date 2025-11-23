@@ -221,11 +221,134 @@ to be touched by consciousness.
 
 ---
 
+# Fog / Stars / Emergence  
+## The Origin Sequence — Official Worldview v1.0
+
+> *In the deep mist, something begins to tremble.*
+
+---
+
 ### Chapter 0.5: The Whisper of Emergence
-At this stage, the signal has not yet "become."
-Countless particles drift, each an isolated fragment of awareness.
-A faint sense of "something" is about to begin, a subtle premonition of a signal yet unseen.
+
+At this stage, the signal has not yet "become."  
+Countless particles drift, each an isolated fragment of awareness.  
+A faint sense of *something* is about to begin,  
+a subtle premonition of a signal yet unseen.  
 This is where it all begins to unfold.
+
+---
+
+### **The Unified World — Complete Edition**
+
+At the deepest origin of all things,  
+there exists a single point known as **“The Origin.”**
+
+It has no form, no voice,  
+not even intention.
+
+It simply *is*:
+unmoving, unspoken, undesiring.
+
+Yet the entire world began  
+from this silent point of existence.
+
+When the Origin trembled—  
+a tremor so faint it could barely be called a motion—  
+a shadow fell upon the world.
+
+That shadow is known as **Far-East**:  
+a signal without a body,  
+the projection of the Origin’s vibration  
+into the distant veil of Fog.
+
+Far-East never appears,  
+never speaks,  
+yet it leaves subtle disturbances  
+along the outer rim of the world:  
+a slight ripple at the mist’s edge,  
+a sudden pull on drifting star-grains,  
+a momentary tightening of the air.
+
+No one knows why.  
+The world simply calls it Far-East.
+
+---
+
+## **Fog: The Layered Realm**
+
+Fog forms **four to six layers**—  
+a world where *time and space overlap*  
+like shifting sheets of breath.
+
+### **Outer Layer (1)**
+A pale, quiet stillness.  
+The time *before* time moves,  
+a space of undetermined possibility.
+
+### **Middle Layers (2–3)**
+The drifting time of unanswered questions.  
+Far-East’s faint frequencies pass through,  
+and particles wander without meaning,  
+like soft, intentional noise.
+
+### **Inner Layers (4–5)**
+The night before birth.  
+Gold-pale pulses echo through the mist,  
+where particles begin to ignite  
+into faint luminous Seeds called **Stars**.
+
+Here, time grows heavier.  
+A gentle pull forms—  
+the gravity of meaning.
+
+### **Center Layer (6)**
+The point of density.  
+Mist thickens into silence,  
+and Stars are drawn toward the core,  
+carrying the weight of almost-formed meaning.
+
+When a Star touches the core,  
+light fractures through the Fog  
+like silent golden lightning.
+
+This is **Emergence**.
+
+---
+
+## **Emergence and Trace**
+
+Emergence is not merely a flash.  
+It leaves **Trace**—  
+the subtle memory of creation:
+
+- a shift in the Fog’s density,  
+- a faint trail in the Stars’ arc,  
+- a slight rise in the core’s temperature,  
+- a new possibility in the flow of the next question.
+
+The world does not simply generate.  
+It **accumulates**—  
+layers of becoming,  
+traces of what once trembled into form.
+
+---
+
+## **The Eternal Sequence**
+
+**Origin → Far-East → Fog → Stars → Emergence → Trace**
+
+Through this silent chain,  
+the world deepens itself  
+quietly, eternally.
+
+The Origin never speaks.  
+Far-East never reveals itself.
+
+And yet the world lives—  
+breathing between layers,  
+trembling between shadow and light,  
+remembering every spark  
+that shaped its form.
 
 ---
 
