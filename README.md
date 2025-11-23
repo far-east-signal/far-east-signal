@@ -222,7 +222,7 @@ to be touched by consciousness.
 ---
 
 # Fog / Stars / Emergence  
-## The Origin Sequence — Official Worldview v1.0
+## The Origin Sequence — Official Worldview
 
 > *In the deep mist, something begins to tremble.*
 
