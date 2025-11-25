@@ -219,24 +219,24 @@ This sequence is implemented using:
 
 ## Architecture
 
-```
 / (root)
-│── index.html        # Scene 01 main page
-│── style.css         # Fog layers, typography, colors
-│── script.js         # Particles, drift, flash events
+│
+├── index.html          # Scene 01 main page and core layout
+├── style.css           # Fog layers, typography, color system
+├── script.js           # Particle logic, drift behavior, flash events
 │
 ├── docs/
-│   └── README.md     # ← この深層版ドキュメント
+│   └── README.md       # Deep-layer technical documentation
 │
 ├── images/
 │   ├── scene01/
-│   │   ├── signal_first-origin.png
-│   │   └── far-east-signal.png
-│   └── scene02/
-│       └── (reserved)
+│   │   ├── signal_first-origin.png   # Key visual for the first signal
+│   │   └── far-east-signal.png       # Main emblem used in Scene 01
+│   │
+│   └── scene02/        # Placeholder for upcoming scenes
 │
-└── assets/
-    └── (future patterns, audio, expansions)
+└── assets/             # Future patterns, audio files, expansion modules
+
 ```
 
 ---
